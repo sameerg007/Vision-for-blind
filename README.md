@@ -26,7 +26,7 @@ It works on face_recognition that uses dlib's deep learning algorithm implementa
 
 
 ## 2. Methodology:
-(https://user-images.githubusercontent.com/73690811/160275549-182cb6fa-22ff-49da-af27-9cf341b9bb09.jpg)
+![Arnav0929](https://user-images.githubusercontent.com/73690811/160275549-182cb6fa-22ff-49da-af27-9cf341b9bb09.jpg)
 
 
 
