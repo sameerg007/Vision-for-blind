@@ -1,8 +1,4 @@
 # Title: God's Eye (AI based spectacles for Blind people) (Hardware Project)
-<ul>
-  <li><h3>This project was the winner of Ionathon 1.0 on global level</h3></li>
-  <li><h3>SIH finalist 2022</h3></li>
-</ul>
 
 ## 1. Description
 ![photo_2022-03-26_03-15-10](https://user-images.githubusercontent.com/73690811/160207334-b364c377-c9cf-4186-84c6-8de8132e0629.jpg)
@@ -30,17 +26,11 @@ It works on face_recognition that uses dlib's deep learning algorithm implementa
 
 
 ## 2. Methodology:
-![Arnav-01](https://user-images.githubusercontent.com/73690811/160275549-182cb6fa-22ff-49da-af27-9cf341b9bb09.jpg)
+(https://user-images.githubusercontent.com/73690811/160275549-182cb6fa-22ff-49da-af27-9cf341b9bb09.jpg)
 
-## 3. Live Links:
-### Website Link : http://godseye.epizy.com/
-### Youtube videos: 
-<ul>
-  <li>https://youtu.be/tzNpARxmF44</li>
-  <li>https://youtu.be/hwHHWGiZTyw</li>
-</ul>
 
-## 4. Instructions to run God's Eye ?
+
+## 3. Instructions to run God's Eye ?
 Step 1: Download the repository as zipped file <br>
 Step 2: Extract zip<br>
 Step 3: Install dependencies from requirements.txt<br>
